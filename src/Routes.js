@@ -14,7 +14,7 @@ export default [
 		component : React.lazy(() => import('./views/Notification'))
 	},
 	{
-		name : "Data",
-		component : React.lazy(() => import('./views/Data'))
+		name : "Chat",
+		component : React.lazy(() => import('./views/Chat'))
 	}
 ];

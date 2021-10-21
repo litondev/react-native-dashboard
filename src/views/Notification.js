@@ -1,6 +1,6 @@
 import React from "react";
 import {ScrollView,Text,View,TouchableOpacity} from "react-native";
-import { Header,Input,BottomSheet,ListItem,Avatar} from 'react-native-elements';
+import { Header,Input,BottomSheet,ListItem,Avatar,Card} from 'react-native-elements';
 import Icon from 'react-native-vector-icons/FontAwesome';
 
 export default class Profil extends React.Component { 
@@ -22,211 +22,15 @@ export default class Profil extends React.Component {
 
 					centerComponent={{ text: 'Notification', style: { color: '#fff' } }}/>
 
-				<View style={{marginTop : 10}}>
-					<ScrollView>
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View><View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View><View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View><View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View><View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View><View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View><View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View><View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View><View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View><View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View><View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View><View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View><View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View><View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View><View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View><View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View><View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View><View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View><View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
-
-						<View>
-							<Text style={{color : 'red'}}>Profil</Text>
-						</View>
+				<View>
+					<ScrollView style={{marginTop : 10,marginBottom : 50}}>
+						{[1,2,3,4,5,6,7,8,9,10].map(() => (
+							<Card>
+								<Text style={{color : 'black'}}>Title </Text>
+								<Card.Divider/>
+								<Text style={{color : 'black'}}>Content</Text>
+							</Card>
+						))}
 					</ScrollView>
 				</View>
 			</View>
