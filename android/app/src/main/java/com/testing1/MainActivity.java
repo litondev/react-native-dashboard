@@ -1,6 +1,7 @@
 package com.testing1;
 
 import com.facebook.react.ReactActivity;
+import com.wix.reactnativenotifications.RNNotificationsPackage;
 
 public class MainActivity extends ReactActivity {
 
